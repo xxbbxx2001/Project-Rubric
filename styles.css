@@ -1,0 +1,21 @@
+#interesting-fact{
+  font-style:italic;
+}
+
+#facts{
+  list-style:none;
+}
+.labels{
+ font-weight:bold;
+}
+
+#container
+{
+  border : 1px green solid;
+  padding:3px;
+  margin : 10px;
+}
+
+.animal-info{
+ border : 1px green solid;
+}
